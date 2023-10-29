@@ -1,0 +1,23 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Core",
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "attachmentFolderPath": "Meta/Attachments",
+  "foldIndent": false,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "foldHeading": false,
+  "readableLineLength": true,
+  "defaultViewMode": "source",
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "smartIndentList": true
+}

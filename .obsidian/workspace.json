@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "290b1db4409336ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c849e70968ce6c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44903b82fe102793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Changelog.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a0231351c8882b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core/Cat.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caedf1137986ed7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "12da5ffc32ac6326",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d158e5a990146077",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "779b7cfdf1bcba75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "21275d1b655d32ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "749e5d3d6d332c6c",
+        "type": "tabs",
+        "dimension": 50.29940119760479,
+        "children": [
+          {
+            "id": "fbae73d933c575da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core/Cat.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "846b795b456171aa",
+        "type": "tabs",
+        "dimension": 49.700598802395206,
+        "children": [
+          {
+            "id": "b4e8bf4df9353514",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Core/Cat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c599d4fe1c3e15d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Core/Cat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d158e5a990146077",
+  "lastOpenFiles": [
+    "README.md",
+    "Meta/Changelog.md",
+    "Core/Cat.md",
+    "Meta/Index.md",
+    "Core",
+    "Untitled",
+    "Core/The Learning Project, Nomad.md",
+    "Core/Scholarship possibilities for Higher Education.md",
+    "Core/TLP Finnish Language.md",
+    "Core/Finnish in a Month.md",
+    "Core/Guide to General Language Learning.md",
+    "Core/TLP Relief.md",
+    "Core/TLP Physics.md",
+    "Core/TLP Math+.md",
+    "Core/The Learning Project, Academic.md",
+    "Core/TLP Cyber Security.md",
+    "Core/TLP Computer Science.md",
+    "Core/TLP Mathematics.md",
+    "Core/TLP Social Sciences.md",
+    "Core/TLP Electronics.md",
+    "Core/TLP Computer Science+.md",
+    "Core/The Learning Project, Theoretical.md",
+    "Core/TLP Chemistry.md",
+    "Core/ITMT, week one.md",
+    "Core/Introduction to Mathematical Thinking.md",
+    "Core/TLP Biology.md",
+    "Core/TLP Computer Science, part 2.md",
+    "Core/TLP Computer Science, part 1.md",
+    "Meta/Templates",
+    "Meta/Attachments",
+    "Meta",
+    "Meta/Attachments/HSR cashback.png",
+    "Meta/Attachments/LC warp carry-over.png",
+    "Meta/Attachments/LC warp rates.png",
+    "Meta/Attachments/Character warp rate up.png",
+    "Meta/Attachments/Character warp carry-over.png",
+    "Excalidraw",
+    "Meta/starrailstation-backup_2023-7-12.json",
+    "Meta/starrailstation-backup_2023-7-11.json",
+    "Meta/starrailstation-backup_2023-7-10.json",
+    "Meta/Attachments/Personal stellar warp gotten five stars.png",
+    "Meta/Attachments/Personal character event gotte five stars 2023.07.04.png",
+    "Meta/Attachments/Soft Pity Observation.png",
+    "Meta/Attachments/Soft pity Emperical whales.png",
+    "Meta/starrailstation-backup_2023-7-4.json",
+    "Meta/Attachments/SRS Seele warp 2.png"
+  ]
+}

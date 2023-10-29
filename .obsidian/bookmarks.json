@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1687031243195,
+      "path": "Meta/Index.md",
+      "title": "Index note for the Knowledge Base"
+    },
+    {
+      "type": "file",
+      "ctime": 1687031504857,
+      "path": "Core/The Learning Project, Practical.md",
+      "title": "TLP Practical"
+    },
+    {
+      "type": "file",
+      "ctime": 1687031509883,
+      "path": "Core/The Learning Project, Academic.md",
+      "title": "TLP Academic"
+    },
+    {
+      "type": "file",
+      "ctime": 1687031513900,
+      "path": "Core/The Learning Project, Theoretical.md",
+      "title": "TLP Theoretical"
+    }
+  ]
+}

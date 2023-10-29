@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "290b1db4409336ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f5d04184563c5e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/nfjsn gjb fd.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caedf1137986ed7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "12da5ffc32ac6326",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e10837a340058ed3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "779b7cfdf1bcba75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76916a8386a33971",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "21275d1b655d32ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "749e5d3d6d332c6c",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "fbae73d933c575da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/nfjsn gjb fd.md"
+              }
+            }
+          },
+          {
+            "id": "09025434c490e05d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/nfjsn gjb fd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "14870592328c4158",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/nfjsn gjb fd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea3e832309b4bdda",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "864a74e31245a64b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Base/nfjsn gjb fd.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8761352562605399,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "2a0ac41cd933d823",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a2ca96eb392d554",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309
+  },
+  "active": "c3f5d04184563c5e",
+  "lastOpenFiles": [
+    "Base/Note Compendium.md",
+    "Diary/2023-01-16.md",
+    "Base/nfjsn gjb fd.md",
+    "Base/Guide to My Second Brain.md",
+    "Base/Conceptual PKB.md",
+    "Base/Applied PKB.md",
+    "Old one/Base/Getting Life Back Together Project.md",
+    "Old one/Base/Guide to my Second Brain.md",
+    "Old one/Base/My Student Life.md",
+    "Old one/Base/TLP, Practical path 2.md"
+  ]
+}

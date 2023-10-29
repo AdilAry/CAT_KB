@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Guide to My Second Brain",
+      "path": "Core/Guidef to My Second Brain.md"
+    },
+    {
+      "type": "file",
+      "title": "Draft Station",
+      "path": "Core/Draft Station, tear this up.md"
+    },
+    {
+      "type": "file",
+      "title": "Note Compendium",
+      "path": "Core/Note Compendium.md"
+    },
+    {
+      "type": "file",
+      "title": "Guide to My Second Brain",
+      "path": "Core/b.md"
+    },
+    {
+      "type": "file",
+      "title": "TLP, Theoretical",
+      "path": "Core/Theoretical path.md"
+    },
+    {
+      "type": "file",
+      "title": "Index",
+      "path": "Meta/Index.md"
+    }
+  ]
+}
