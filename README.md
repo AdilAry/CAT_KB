@@ -4,6 +4,7 @@ revised: 2023.10.19
 ---
 ### Introduction;
 This note is a guidebook going through the structure of this specific knowledge base, as well as providing basic information on what it supposed to be and how it is structured.
+forsen
 
 ---
 ### Sharing is Caring; 
